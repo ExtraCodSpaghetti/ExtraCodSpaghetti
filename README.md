@@ -2,8 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 I am a beginner programmer ASP.Net Core✨
 ---------------------------------------
-⚡I have been studying programming for 2 years. I started from studying C. After that I became interested in Java and C#. Also for the last year I learned HTML/CSS and Bootstrap. I even participated in a project on Joomla 4 where one of my tasks was to modify HTML/CSS code. I also participated in creating joomla4 pages with dj classifieds. Then I got interested in Windows Forms and created a simple game based on this framework. It is available on my GitHub. Now I am deeply learning how to write a C# backend using ASP.NET Core MVC . I have demonstrated my knowledge and skills by creating complete web project. I am also familiar with many utilities for web applications. Toaster, Sweetalert, Summernote, Syncfusion, MailJet. Also I have used different databases during my studies such as Xampp, Mamp, MySql serwer, Microsoft SQL server and Oracle. I have the most experience with MySql serwer and Microsoft SQL server.
+⚡I have been studying programming for 2 years. I started from studying C. After that I became interested in Java and C#. Also for the last year I learned HTML/CSS and Bootstrap. I even participated in a project on Joomla 4 where one of my tasks was to modify HTML/CSS code. I also participated in creating joomla4 pages with dj classifieds. Then I got interested in Windows Forms and created a simple game based on this framework. It is available on my GitHub. 
+---------------------------------------
+⚡Now I am deeply learning how to write a C# backend using ASP.NET Core MVC . I have demonstrated my knowledge and skills by creating complete web project. I am also familiar with many utilities for web applications. Toaster, Sweetalert, Summernote, Syncfusion, MailJet. Also I have used different databases during my studies such as Xampp, Mamp, MySql serwer, Microsoft SQL server and Oracle. I have the most experience with MySql serwer and Microsoft SQL server.
+---------------------------------------
 * 🌍  I'm based in Wroclaw
+* 🔭  I'm studying in Wroclaw Business University: INTERNET ENGINEERING – Information Technology
 * ✉️  You can contact me at [K03.chesak@gmail.com](mailto:K03.chesak@gmail.com)
 * 🧠  I'm learning ASP.NET Core REST Web API
 ---------------------------------------
