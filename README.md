@@ -34,6 +34,9 @@ I am a beginner programmer ASP.Net Core✨
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtraCodSpaghetti)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtraCodSpaghetti)](https://github.com/ExtraCodSpaghetti/README)
+
+
 <!--
 **ExtraCodSpaghetti/ExtraCodSpaghetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
