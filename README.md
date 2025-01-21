@@ -33,8 +33,8 @@ I am a beginner programmer ASP.Net Core✨
 ---------------------------------------
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtraCodSpaghetti)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtraCodSpaghetti)](https://github.com/ExtraCodSpaghetti/README)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtraCodSpaghetti&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
