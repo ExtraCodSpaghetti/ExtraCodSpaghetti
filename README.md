@@ -36,7 +36,7 @@ I am a beginner programmer ASP.Net Core✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtraCodSpaghetti&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoItTeacher&hide=stars,contribs&show_icons=true&theme=dracula)](https://github.com/GoItTeacher/github-README.md) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2o2NHZqazNnY2I1OGhseml0ZG94ZzJpN3A5N2tvcnZqZnlla2U2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.webp" width="250" height="150" />
 <!--
 **ExtraCodSpaghetti/ExtraCodSpaghetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
