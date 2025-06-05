@@ -1,10 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kostiantyn
 ==================================================================================================================================
-I am a beginner programmer ASP.Net Core✨
+I’m a junior web developer✨
 ---------------------------------------
-### ⚡I have been studying programming for 2 years. I started from studying C. After that I became interested in Java and C#. Also for the last year I learned HTML/CSS and Bootstrap. I even participated in a project on Joomla 4 where one of my tasks was to modify HTML/CSS code. I also participated in creating joomla4 pages with dj classifieds. Then I got interested in Windows Forms and created a simple game based on this framework. It is available on my GitHub. 
+### 💻I recently graduated with a degree in Information Technology and am currently expanding my skills through the GoIT bootcamp.
+
+My main focus is backend development using ASP.NET Core MVC and C#, but I also have solid experience with frontend technologies like JavaScript/TypeScript, React and Bootstrap. Throughout my journey, I’ve worked on freelance web projects, participated in team collaborations, and developed a full-scale ASP.NET-based e-commerce platform as a personal project.
+
 ---------------------------------------
-### ⚡Now I am deeply learning how to write a C# backend using ASP.NET Core MVC . I have demonstrated my knowledge and skills by creating complete web project. I am also familiar with many utilities for web applications. Toaster, Sweetalert, Summernote, Syncfusion, MailJet. Also I have used different databases during my studies such as Xampp, Mamp, MySql serwer, Microsoft SQL server and Oracle. I have the most experience with MySql serwer and Microsoft SQL server.
+### ⚡In addition to development, I’m also interested in Quality Assurance, where I can apply my attention to detail and technical knowledge to help deliver stable and user-friendly software.
+
+I’m a self-motivated and diligent learner, always looking to grow, share my knowledge, and learn from others in the tech community.
+
 ---------------------------------------
 * 🌍  I'm based in Wroclaw
 * 🔭  I'm studying in Wroclaw Business University: INTERNET ENGINEERING – Information Technology
