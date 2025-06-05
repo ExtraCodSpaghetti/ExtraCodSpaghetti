@@ -1,19 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kostiantyn
 ==================================================================================================================================
-I’m a junior web developer✨
+I’m a junior Fullstack Developer✨
 ---------------------------------------
-## 💻I recently graduated with a degree in Information Technology and am currently expanding my skills through the GoIT bootcamp.
-My main focus is backend development using ASP.NET Core MVC and C#, but I also have solid experience with frontend technologies like JavaScript/TypeScript, React and Bootstrap. Throughout my journey, I’ve worked on freelance web projects, participated in team collaborations, and developed a full-scale ASP.NET-based e-commerce platform as a personal project.
+💻I recently graduated with a degree in Information Technology and am currently expanding my skills through the GoIT bootcamp. My main focus is backend development using ASP.NET Core MVC and C#, but I also have solid experience with frontend technologies like JavaScript/TypeScript, React and Bootstrap. 
+Throughout my journey, I’ve worked on freelance web projects, participated in team collaborations, and developed a full-scale ASP.NET-based e-commerce platform as a personal project.
 
 ---------------------------------------
-## ⚡In addition to development, I’m also interested in Quality Assurance, where I can apply my attention to detail and technical knowledge to help deliver stable and user-friendly software.
-I’m a self-motivated and diligent learner, always looking to grow, share my knowledge, and learn from others in the tech community.
+⚡In addition to development, I’m also interested in Quality Assurance, where I can apply my attention to detail and technical knowledge to help deliver stable and user-friendly software. I’m a self-motivated and diligent learner, always looking to grow, share my knowledge, and learn from others in the tech community.
 
 ---------------------------------------
-* 🌍  I'm based in Wroclaw
-* 🔭  I'm studying in Wroclaw Business University: INTERNET ENGINEERING – Information Technology
+* 🌍  I'm based in Warsaw
+* 🔭  I graduated from Wroclaw Business University with a degree in Internet Engineering – Information Technology.
 * ✉️  You can contact me at [K03.chesak@gmail.com](mailto:K03.chesak@gmail.com)
-* 🧠  I'm learning ASP.NET Core REST Web API
 ---------------------------------------
 
 
