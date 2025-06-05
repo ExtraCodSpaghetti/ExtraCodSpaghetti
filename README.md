@@ -2,13 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 I’m a junior web developer✨
 ---------------------------------------
-### 💻I recently graduated with a degree in Information Technology and am currently expanding my skills through the GoIT bootcamp.
-
+## 💻I recently graduated with a degree in Information Technology and am currently expanding my skills through the GoIT bootcamp.
 My main focus is backend development using ASP.NET Core MVC and C#, but I also have solid experience with frontend technologies like JavaScript/TypeScript, React and Bootstrap. Throughout my journey, I’ve worked on freelance web projects, participated in team collaborations, and developed a full-scale ASP.NET-based e-commerce platform as a personal project.
 
 ---------------------------------------
-### ⚡In addition to development, I’m also interested in Quality Assurance, where I can apply my attention to detail and technical knowledge to help deliver stable and user-friendly software.
-
+## ⚡In addition to development, I’m also interested in Quality Assurance, where I can apply my attention to detail and technical knowledge to help deliver stable and user-friendly software.
 I’m a self-motivated and diligent learner, always looking to grow, share my knowledge, and learn from others in the tech community.
 
 ---------------------------------------
